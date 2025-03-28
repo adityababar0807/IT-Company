@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.d1{
+    background-color: white;
+}
+.s1{
+background-image: url(../img/background\ img.png);
+background-repeat: no-repeat;
+background-size: cover;
+height: 600px;
+width: 100%;
+background-position: 14%;
+}
+.btn{
+    color: white;
+    margin-top: 300px;
+    border: 2px solid orange;
+    width: 150px;
+    margin-left: 150px;
+}
+.btn:hover{
+    background-color: orange;
+}
+.s2{
+    border: 2px solid black;
+    color: white;
+    background-color:#062d40;
+    border-radius: 5%;
+    width: 300px;
+
+}
+.s2 img{
+    height: 150px;
+    width: 200px;
+}
+.s3{
+    border: 2px solid black;
+    color: white;
+    background-color:#003D6C;
+    border-radius: 5%;
+   width:300px;
+    
+}
+.s3 img{
+    height: 150px;
+    width: 150px;
+}
+.s4{
+    border: 2px solid black;
+    color: white;
+    background-color:#062d40;
+    border-radius: 5%;
+    width: 300px;
+}
+.s4 img{
+    height: 150px;
+    width: 150px;
+}
+.button1{
+    border: 2px solid orange;
+    width: 150px;
+    height: 50px;
+    border-radius: 10%;
+}
+.button1:hover{
+    background-color: orange;
+}
+.photo{
+    border: 1px solid black;
+}
+.button2{
+    border: 2px solid orange;
+    width: 150px;
+    height: 50px;
+    border-radius: 10%;
+    
+}
+.button2:hover{
+    background-color: orange;
+}
+
+.section8{
+    background-image:  url(../img/img14.png);
+    background-repeat: no-repeat;
+    height: 340px;
+}
+.s8{
+    color: white;
+}

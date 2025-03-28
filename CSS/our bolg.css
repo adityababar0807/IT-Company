@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.d1{
+    background-color: white;
+}
+
+.o{
+    width: 1500px;
+    height: 500px;
+    background-image: url(../img/img24.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.button2{
+    border: 2px solid orange;
+    width: 150px;
+    height: 50px;
+    border-radius: 10%;
+    
+}
+.button2:hover{
+    background-color: orange;
+}
+
+.section8{
+    background-image:  url(../img/img14.png);
+    background-repeat: no-repeat;
+    height: 340px;
+}
+.s8{
+    color: white;
+}

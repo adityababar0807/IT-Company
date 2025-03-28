@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.d1{
+    background-color: white;
+}
+.Ourstories{
+    background-color: white;
+}
+.Ourstories1{
+    background-image: url(../img/img15.png);
+    height: 500px;
+    background-size: cover;
+     background-repeat: no-repeat;
+}
+.Ourstories1 h1 {
+    color: white;
+    margin-top: 180px;
+}
+
+.Ourstories2{
+    background-color:#C1DEFF52;
+}
+
+.button2{
+    border: 2px solid orange;
+    width: 150px;
+    height: 50px;
+    border-radius: 10%;
+    
+}
+.button2:hover{
+    background-color: orange;
+}
+
+.section8{
+    background-image:  url(../img/img14.png);
+    background-repeat: no-repeat;
+    height: 340px;
+}
+.s8{
+    color: white;
+}
